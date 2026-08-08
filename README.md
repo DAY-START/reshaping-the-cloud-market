@@ -1,6 +1,6 @@
 # Reshaping the Cloud Market: AI Compute Attention, Ex Ante Exposure, and Stock Return Divergence
 
-> **Repository**: https://github.com/your-username/reshaping-the-cloud-market
+> **Repository**: https://github.com/DAY-START/reshaping-the-cloud-market
 > (Replace `your-username` with your actual GitHub username/organization before publishing.)
 
 This repository accompanies the paper above. It organizes the data-acquisition

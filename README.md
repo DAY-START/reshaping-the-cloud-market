@@ -2,7 +2,6 @@
 
 > **Repository**: https://github.com/DAY-START/reshaping-the-cloud-market
 
-
 This repository accompanies the paper above. It organizes the data-acquisition
 and analysis scripts, the raw-data provenance notes, and the manuscript
 figures/tables in a reproducible, upload-ready structure.
@@ -110,4 +109,4 @@ above.
 ## Citation
 If you use this repository, please cite the accompanying paper and reference this repository:
 
-> Jiang, T., & Li, X. (2026). *Reshaping the Cloud Market: AI Compute Attention, Ex Ante Exposure, and Stock Return Divergence.* [Journal]. Code and sample data: https://github.com/your-username/reshaping-the-cloud-market
+> Jiang, T., & Li, X. (2026). *Reshaping the Cloud Market: AI Compute Attention, Ex Ante Exposure, and Stock Return Divergence.* [Journal]. Code and sample data: https://github.com/DAY-START/reshaping-the-cloud-market
